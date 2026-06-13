@@ -1,5 +1,2 @@
-fastapi
-uvicorn
-requests
-yfinance
-pandas
+flask
+psycopg2-binary
